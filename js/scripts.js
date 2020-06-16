@@ -52,6 +52,9 @@ Contact.prototype.fullName = function() {
 // User Interface Logic ---------
 
 let addressBook = new AddressBook();
+
+//Begi Display Contact
+
 function displayContactDetails(addressBookToDisplay) {
   let contactsList = $("ul#contacts");
   let htmlForContactInfo = "";
@@ -61,6 +64,7 @@ function displayContactDetails(addressBookToDisplay) {
   contactsList.html(htmlForContactInfo);
   
 }
+// End Display Contact
 function showContact(contactId) {
   const contact = addressBook.findContact(contactId);
   $("#show-contact").show();
