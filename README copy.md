@@ -2,7 +2,7 @@
 
 #### _{Logs contact information and location}, {6-15-20}_
 
-#### By _**{Jason Khan && Frederick Ernest}**_
+#### By _**{Johnny Duverseau && Frederick Ernest}**_
 
 ## Description of Address Book Behavior 
 
@@ -60,7 +60,7 @@ _{No known bugs}_
 
 ## Support and contact details
 
-_{Contact Jason Khan <jasonderekkhan@gmail.com> Frederick Ernest <frederick.ernest@gmail.com>}_
+_{Contact Jason Khan <duverseaujohnny21@gmail.com> Frederick Ernest <frederick.ernest@gmail.com>}_
 
 ## Technologies Used
 
@@ -70,4 +70,4 @@ _{Made and edited in VScode, on a MBP running OSX10.14, the languages used were 
 
 *{Open source under the MIT licence.}*
 
-Copyright (c) 2020 **_{Frederick Ernest && Jason Khan}_**
+Copyright (c) 2020 **_{Frederick Ernest && Johnny Duverseau}_**
